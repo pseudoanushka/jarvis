@@ -144,5 +144,5 @@ It’s a **prototype spatial interface** — a system that:
 - Reconfigures its geometry mathematically in real-time  
 - Feels like it belongs in a **Stark-level future lab**
 
-This is not just a visualization.  
-It’s the **foundation for the next generation of human–computer interaction.**
+At last i would like to say
+"We did it Mr.Stark"
