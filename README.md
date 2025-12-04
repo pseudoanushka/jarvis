@@ -17,7 +17,11 @@ This project combines:
 The result isn’t just a visualization; it’s the foundation of a **spatial interface** that feels like it belongs in the future.
 
 ---
-
+## Gestures
+- Gestures:One Hand (Open): Move your hand around the screen. The model will rotate to follow your hand (Orbit).
+- Pinch (One Hand): Pinch your Index Finger and Thumb together. The status text will flash "NEXT PHASE >>" and the model will transform (e.g., Sphere,Grid, Rings).
+- Two Hands: Hold both hands up. Move them closer together to Zoom In, pull them apart to Zoom Out.
+- No Hands: Take your hands out of frame. The system says "MODE: AUTO-PILOT" and gently rotates the model on its own.
 ## 1. Visual Engine – Nanite Swarm Rendering
 
 You’re not looking at standard 3D meshes.
